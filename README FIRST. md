@@ -1,0 +1,3 @@
+Look at sudo.c - function
+static char **
+get_user_info(struct user_details *ud)
